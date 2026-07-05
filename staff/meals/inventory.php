@@ -196,7 +196,7 @@ if ($_POST && isset($_POST['update_stock'])) {
               <!-- Footer -->
     <footer style="background: linear-gradient(135deg, #023f05 0%, #31c205 100%); color: white; padding: 1rem 0; text-align: center;">
         <div class="container">
-            <p>&copy; <?php echo date('Y'); ?> Godswill Meal System. Developed by Kayode Ilesanmi, Lawal Fawas and Areo David</p>
+            <p>&copy; <?php echo date('Y'); ?> Godswill Meal System. Developed by Badusi</p>
         </div>
     </footer>
     <script>
